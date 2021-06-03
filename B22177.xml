@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament with instrvctions for the taking of the leagve and covenant in the Kingdom of England, and dominion of Wales : with an exhortation for the taking of the covenant, and for satisfying such scruples as may arise thereupon : together with the league and covenant, subscribed with the names of so many of the members of the House of Commons as have taken it : all which are to be read in all churches and chapples within the Kingdom of England, and dominion of Wales.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 37KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22177</idno><idno type="EEBO-CITATION">12037909</idno>
+  <idno type="VID">196579</idno>
+  <idno type="EEBO-PROQUEST">2240961013</idno>
+  
+            <idno type="STC">Wing E2111</idno>
+            <idno type="OCLC">12037909</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22177)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196579)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 234:E33, no 8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament with instrvctions for the taking of the leagve and covenant in the Kingdom of England, and dominion of Wales : with an exhortation for the taking of the covenant, and for satisfying such scruples as may arise thereupon : together with the league and covenant, subscribed with the names of so many of the members of the House of Commons as have taken it : all which are to be read in all churches and chapples within the Kingdom of England, and dominion of Wales.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>8, 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Husbands ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Solemn League and Covenant (1643)</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196579:1"/>
+            <p>AN ORDINANCE OF The Lords and Commons assembled in PARLIAMENT; WITH INSTRVCTIONS For the taking of the <hi>LEAGVE</hi> and <hi>COVENANT</hi> in the Kingdom of <hi>England,</hi> and Dominion of <hi>Wales.</hi>
+            </p>
+            <p>
+               <hi>WITH</hi> AN EXHORTATION For the taking of the <hi>Covenant;</hi> And for satisfying such Scruples as may arise thereupon.</p>
+            <p>Together with the LEAGUE and COVENANT, Subscribed with the Names of so many of the Mem<g ref="char:EOLhyphen"/>bers of the House of Commons as have taken it.</p>
+            <p>All which are to be read in all Churches and Chappels within the Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and Dominion of <hi>Wales.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order_to_print">
+                        <opener>
+                           <dateline>
+                              <date>5. FEB. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons in Parliament, That the <hi>Ordinance,</hi> with <hi>Instructions</hi> for the taking of the League and Covenant, together with the <hi>Exhortation</hi> and the <hi>League</hi> and <hi>Covenant,</hi> be forthwith printed and published:</p>
+                        <closer>
+                           <signed>H: ELSYNGE, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>E. Husbands,</hi> and are to be sold at his shop in the Middl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-Temple.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb n="3" facs="tcp:196579:2"/>
+            <opener>
+               <dateline>
+                  <date>2. Febr. 1643.</date>
+               </dateline>
+            </opener>
+            <head>An Ordinance of the Lords and Commons, enioyning the taking of the late Solemn League and Covenant throughout the Kingdom of <hi>England,</hi> and Dominion of <hi>VVales.</hi>
+            </head>
+            <p>WHereas a Covenant for the preservation and Re<g ref="char:EOLhyphen"/>formation of Religion, The maintenance and de<g ref="char:EOLhyphen"/>fence of Laws and Liberties, hath been thought a fit and excellent means to acquire the favour of Almighty God towards the three Kingdoms of <hi>England, Scotland</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land;</hi> and likewise to unite them, and by uniting, to strengthen and fortifie them against the Common-Enemy of the true Reformed Religion, Peace and Prosperity of these Kingdomes; And whereas both Houses of Parlia<g ref="char:EOLhyphen"/>ment in <hi>England,</hi> the Cities of <hi>London</hi> and <hi>Westminster,</hi> and the Kingdome of <hi>Scotland</hi> have already taken the same; It is now Ordered and Ordained by the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliment, that the same Covenant be solemnly taken in all places throughout the Kingdome of <hi>England,</hi>
+               <pb n="4" facs="tcp:196579:3"/> and Dominion of <hi>Wales.</hi> And for the better and more orderly taking thereof these directions ensuing are appoin<g ref="char:EOLhyphen"/>ted and enjoyned strictly to be followed.</p>
+            <div type="instructions">
+               <head>Instructions for the taking of the solemne League and Covenant throughout the Kingdome.</head>
+               <p>
+                  <label>I.</label> THat the Speakers of both Houses of Parliament doe speedily send (to the Lord Generall, and all other Commanders in chiefe, and Governours of Townes, Forts, Castles, and Garrisons, as also to the Earle of <hi>Warwick</hi> Lord High Admirall of <hi>England)</hi> true Copies of the said solemne League and Covenant to the end it may be taken by all Officers and Souldiers under their severall Commands.</p>
+               <p>
+                  <label>II.</label> That all the Knights and Burgesses now in Parliament, doe take speciall care speedily to send down into their severall Counties (which are or shall hereafter be under the power of the Parliament) accompetent number of true Copies of the said League and Covenant unto the Com<g ref="char:EOLhyphen"/>mittees of Parliament in their severall Counties; And that the said Committees doe within six dayes at the most disperse the said Copies to every Parish Church or Chap<g ref="char:EOLhyphen"/>pell in their severall Counties, to be delivered unto the Ministers, Churchwardens, or Constables of the severall Parishes.</p>
+               <p>
+                  <label>III.</label> That the said Committees be required to returne a Cer<g ref="char:EOLhyphen"/>tificate of the day when they received the said Copies, as also the day they sent them forth, and to what Parishes
+<pb n="5" facs="tcp:196579:3"/> they have sent them, which Certificat they are to return to the Clerke of the Parliament appointed forthe Commons House, that so an Account may be given of it, as there shall be occasion.</p>
+               <p>
+                  <label>IV.</label> That the severall Ministers be required to reade the said Covenant publikely unto their people the next Lords day after they receive it; and prepare their people for it, against the time that they shall be called to take it.</p>
+               <p>
+                  <label>V.</label> That the said League and Covenant bee taken by the Committees of Parliament in the place where they re<g ref="char:EOLhyphen"/>side, and tendered also to the Inhabitants of the Towne, within seven dayes after it comes to the said Committees hands.</p>
+               <p>
+                  <label>VI.</label> That the said Committees after they have taken it them<g ref="char:EOLhyphen"/>selves, doe speedily disperse themselves through the said Counties, so as three or foure of them be together on dayes appointed at the chiefe places of meeting for the se<g ref="char:EOLhyphen"/>verall divisions of the said Counties, And summon all the Ministers, Churchwardens, Constables, and other Of<g ref="char:EOLhyphen"/>ficers unto that place; where, after a Sermon preached by one oppointed by the Committee for that purpose, they cause the same Minister to tender the League and Cove<g ref="char:EOLhyphen"/>nant unto all such Ministers and other Officers, to be taken and subscribed by them, in the presence of the said Com<g ref="char:EOLhyphen"/>mittees.</p>
+               <p>
+                  <label>VII.</label> That the said Committees do withall give the said Ministers in Charge to tender it unto all the rest of their Parishioners the next Lords day, making then unto
+<pb n="6" facs="tcp:196579:4"/> their said Parishioners some solemn exhortation concern<g ref="char:EOLhyphen"/>ing the taking and observing thereof: And that the said Committees do also return to the severall Parishes the Names of all such as have taken the Covenant before them, who yet shall also Subscribe their Names in the book or Roll with their neighbours in their severall pa<g ref="char:EOLhyphen"/>rishes: And if any Minister refuse or neglect to appear at the said Summons, or refuse to take the said Covenant be<g ref="char:EOLhyphen"/>fore the Committee, or to tender it to his Parish, that then the Committees be carefull to appoint another Minister to do it in his place.</p>
+               <p>
+                  <label>VIII.</label> That this League and Covenant be tendered to all men, within the severall Parishes, above the age of eigh<g ref="char:EOLhyphen"/>teene, as well Lodgers as Inhabitants.</p>
+               <p>
+                  <label>IX.</label> That it be Recommended to the Earl of <hi>Manchester</hi> to take speciall care that it bee tendred and taken in the Vniversitie of Cambridge.</p>
+               <p>
+                  <label>X.</label> That for the better encouragement of all sorts of Per<g ref="char:EOLhyphen"/>sons to take it; It be recommended to the assembly of Divines to make a brief Declaration by way of Exhor<g ref="char:EOLhyphen"/>tation to all sorts of persons to take it, as that which they judge not onely lawfull, But (all things considered) ex<g ref="char:EOLhyphen"/>ceeding expedient and necessary, for all that wish well to Religion, the King and Kingdom to joyn in, and to be a singular pledge of Gods gracious goodnesse to all the three Kingdomes.</p>
+               <pb n="7" facs="tcp:196579:4"/>
+               <p>
+                  <label>XI.</label> That if any Minister do refuse to take, or to tender the Covenant, or any other person or persons do not take it the Lords day that it is tendred, that then it be ten<g ref="char:EOLhyphen"/>dred to them again the Lords day following, and if they still continue to refuse it, that then their Names be return<g ref="char:EOLhyphen"/>ed by the Minister that tenders i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>▪ and by the Church<g ref="char:EOLhyphen"/>wardens or Constables unto the Committees, and by them to the House of Commons, that such further course may be taken with them, as the Houses of Parliament shall see cause.</p>
+               <p>
+                  <label>XII.</label> That all such persons as are within the severall Parishes when notice is given of the taking of it, and do absent themselves from the Church at the time of taking it, and come not in afterwards, to the Minister and Churchwar<g ref="char:EOLhyphen"/>dens, or other Officers, to take it in their presence before the returne be made, be returned as refusers.</p>
+               <p>
+                  <label>XIII.</label>
+                  <hi>The manner of the taking it to be thus,</hi> The Mini<g ref="char:EOLhyphen"/>ster to read the whole Covenant distinctly and audibly in the Pulpit, and during the time of the reading therof, the whole Congre<g ref="char:EOLhyphen"/>gation to be uncovered, and at the end of his reading therof, all to take it standing, lifting
+<pb n="8" facs="tcp:196579:5"/> up their Right hands bare, and then after<g ref="char:EOLhyphen"/>wards to subscribe it severally by writing their names (or their marks, to which their names are to be added) in a parchment Roll, or a Book, wherinto the Covenant is to be in<g ref="char:EOLhyphen"/>serted, purposely provided for that end, and kept as a Record in the Parish.</p>
+               <p>
+                  <label>XIIII.</label> That the assembly of Divines do prepare an Exhortati<g ref="char:EOLhyphen"/>on for the better taking of the Covenant: And that the said Exhortation and the Declaration of the Kingdoms of <hi>England</hi> and <hi>Scotland,</hi> joyned in the Armies, for the vin<g ref="char:EOLhyphen"/>dication and defence of their Religion, Liberties and Lawes, against the Popish Prelaticall and Malignant par<g ref="char:EOLhyphen"/>tie, and passed the 30<seg rend="sup">th.</seg> of <hi>Ianuary</hi> last, be publikely read, when the Covenant is read, according to the fourth and sixth Articles: And that a sufficient number of the co<g ref="char:EOLhyphen"/>pies of the said Declaration be sent by the persons ap<g ref="char:EOLhyphen"/>pointed to send the true copies of the said Covenant, in the first and second Articles.</p>
+            </div>
+         </div>
+         <div type="exhortation">
+            <pb n="1" facs="tcp:196579:5"/>
+            <head>AN EXHORTATION TO the taking of the Solemne League and Covenant, FOR REFORMATION AND Defence of Religion, the Honour and happinesse of the King, and the Peace and safety of the three King<g ref="char:EOLhyphen"/>domes of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>F the power of Religion, or so<g ref="char:EOLhyphen"/>lid Reason, if Loyalty to the King, and piety to their Na<g ref="char:EOLhyphen"/>tive Country, or love to them<g ref="char:EOLhyphen"/>selves, and naturall affection to their posterity, if the Example of men touched with a deep sense of all these, or extraordi<g ref="char:EOLhyphen"/>nary successe from God thereupon, can awaken an embroyled bleeding remnant to imbrace the sove<g ref="char:EOLhyphen"/>raigne,
+<pb n="2" facs="tcp:196579:6"/> and onely meanes of their recovery, there can be no doubt but this Solemne League and Co<g ref="char:EOLhyphen"/>venant will find wheresoever it shall bee tende<g ref="char:EOLhyphen"/>red, a people ready to entertaine it with all cheere<g ref="char:EOLhyphen"/>fulnesse and duty.</p>
+            <p>And were it not commended to the Kingdom by the concurrent encouragement of the Honourable Houses of Parliament, the Assembly of Divines, the renowned City of <hi>London,</hi> multitudes of other per<g ref="char:EOLhyphen"/>sons of eminent rank and quality in this Nation, and the whole Body of <hi>Scotland,</hi> who have all willingly sworn and subscribed it, with rejoycing at the Oath, so graciously seconded from Heaven already, by blasting the Counsels, and breaking the power of the Enemy more than ever; yet it goeth forth in its own strength, with such convincing evidence of e<g ref="char:EOLhyphen"/>quity, Truth and Righteousnesse, as may raise in all (not wilfully ignorant, or miserably seduced) infla<g ref="char:EOLhyphen"/>med affections to joyne with their Brethren in this happy Bond, for putting an end to the present mise<g ref="char:EOLhyphen"/>ries, and for saving both of King and Kingdom from utter ruine now so strongly and openly la<g ref="char:EOLhyphen"/>boured by the Popish faction, and such as have been bewitched and besotted by that viperous and blou<g ref="char:EOLhyphen"/>dy generation.</p>
+            <p>For what is there almost in this Covenant, which was not for substance either expressed or manifestly included in that solemne <hi>Protestation</hi> of <hi>May</hi> 5. 1641. wherein the whole Kingdome stands inga<g ref="char:EOLhyphen"/>ged untill this day? The sinfull neglect whereof,
+<pb n="3" facs="tcp:196579:6"/> doth (as we may justly feare) open one floodgate the more to let in all these calamities upon the Kingdome, and cast upon it a necessity of renewing Covenant, and of entring into this.</p>
+            <p>If it be said, the extirpation of Prelacy, to wit, the whole Hierarchicall Government (standing, as yet, by the knowne Lawes of the Kingdome) is new, and unwarrantable: This will appeare to all impartiall understandings, (though new) to be not onely warrantable, but necessary; if they con<g ref="char:EOLhyphen"/>sider (to omit what some say, that this Govern<g ref="char:EOLhyphen"/>ment was never formally established by any Lawes of this Kingdome at all) that the very life and soule thereof is already taken from it by an Act passed this present Parliament, so as (like <hi>Jezabels</hi> Carcasse, of which no more was left but the skull, the feete, and the palmes of her hands) nothing of jurisdiction remaines but what is precarious in them, and vo<g ref="char:EOLhyphen"/>luntary in those who submit unto them: that their whole Government is at best but a humane constitution, and such as is found and adjudged by both Houses of Parliament, (in which, the judge<g ref="char:EOLhyphen"/>ment of the whole Kingdom is involved and De<g ref="char:EOLhyphen"/>clared) not onely very prejudiciall to the Civill State, but a great hinderance also to the perfect Re<g ref="char:EOLhyphen"/>formation of Religion; Yea, who knoweth it not to bee too much an enemy there unto, and destru<g ref="char:EOLhyphen"/>ctive to the power of godlinesse, and pure admini<g ref="char:EOLhyphen"/>stration of the Ordinances of Christ? which moved the well-affected, almost throughout this King<g ref="char:EOLhyphen"/>dom,
+<pb n="4" facs="tcp:196579:7"/> long since to Petition this Parliament (as hath been desired before, even in the Reigne of Queen <hi>Elizabeth,</hi> and of King <hi>James)</hi> for a to<g ref="char:EOLhyphen"/>tall abolition of the same. Nor is any man hereby bound to offer any violence to their persons, but only, in his place and calling, to indevour their ex<g ref="char:EOLhyphen"/>tirpation in a lawful way.</p>
+            <p>And as for those Clergy-men, who pretend that they (above all others) cannot Covenant to ex<g ref="char:EOLhyphen"/>tirpate that Government, because they have (as they say) taken a solemne Oath to obey the Bi<g ref="char:EOLhyphen"/>shops, <hi>in licitis et honestis:</hi> they can tell, if they please, that they that have sworn obedience to the Laws of the Land, are not thereby prohibited from indevouring by all lawfull meanes the aboli<g ref="char:EOLhyphen"/>tion of those Lawes, when they prove inconveni<g ref="char:EOLhyphen"/>ent or mischievous. And if yet there should any Oath be found into which any Ministers or others have entred, not warranted by the Laws of God and the Land, in this case, they must teach them<g ref="char:EOLhyphen"/>selves and others, that such Oathes call for repen<g ref="char:EOLhyphen"/>tance, not pertinacy in them.</p>
+            <p>If it be pleaded that this Covenant crosseth the Oaths of <hi>Supremacy</hi> and <hi>Allegiance;</hi> there can be nothing further from truth: for, this Covenant binds all, and more strongly engageth them to <hi>pre<g ref="char:EOLhyphen"/>serve and defend the Kings Majesties Person, and au<g ref="char:EOLhyphen"/>thority in the preservation and defence of the true Reli<g ref="char:EOLhyphen"/>gion and Liberties of the Kingdomes.</hi>
+            </p>
+            <p>That scruple, that this is done without the Kings
+<pb n="5" facs="tcp:196579:7"/> consent, will soone be removed, if it be remem<g ref="char:EOLhyphen"/>bred that the <hi>Protestation</hi> of the fifth of <hi>May</hi> be<g ref="char:EOLhyphen"/>fore mentioned, was in the same manner voted and executed by both Houses, and after (by order of one House alone) sent abroad to all the King<g ref="char:EOLhyphen"/>dome, his Majesty not excepting against it, or gi<g ref="char:EOLhyphen"/>ving any stop to the taking of it, albeit he was then resident in Person at <hi>Whitehall.</hi>
+            </p>
+            <p>Thus <hi>Ezra</hi> and <hi>Nehemiah</hi> drew all the people <note place="margin">Ezra 10. Neh. 9.</note> into a Covenant, without any speciall Commission from the Persian Monarchs (then their Soveraigns) so to doe, albeit they were not free Subjects, but Vassals, and one of them the meniall Servant of <hi>Artaxerxes,</hi> then by Conquest King of <hi>Judah</hi> al<g ref="char:EOLhyphen"/>so. <note place="margin">Neh. 1.</note>
+            </p>
+            <p>Nor hath this doctrine or practise beene deemed seditious or unwarrantable by the Princes that have sate upon the English Throne, but justified and de<g ref="char:EOLhyphen"/>fended by Queene <hi>Elizabeth</hi> of blessed memory, with the expence of much Treasure and Noble blood, in the united Provinces of the Netherlands combined not only without, but against the unjust violence of <hi>Philip</hi> of Spaine; King <hi>James</hi> follow<g ref="char:EOLhyphen"/>ed her steps, so farre as to approve their union, and to enter into league with them as free States; which is continued by his Majestie now reigning, unto this day; who both by his expedition for reliefe of <hi>Rochel</hi> in France, and his strict confedera<g ref="char:EOLhyphen"/>cy with the Prince of <hi>Orange,</hi> and the States Gene<g ref="char:EOLhyphen"/>rall, notwithstanding all the importunitie of Spaine
+<pb n="6" facs="tcp:196579:8"/> to the contrary, hath set to his Seale that all that had beene done by his Royall Ancestors, in main<g ref="char:EOLhyphen"/>tenance of those who had so engaged and combi<g ref="char:EOLhyphen"/>ned themselves, was just and warrantable.</p>
+            <p>And what had become of the Religion, Lawes, and Liberties of our sister Nation of <hi>Scotland,</hi> had they not entred into such a solemne League and Covenant at the beginning of the late troubles there? which course, however it was at first, by the Popish and Prelatick Projectors, represented to his Majestie as an offence of the highest nature, justly deserving chastisement by the fury of a pu<g ref="char:EOLhyphen"/>issant Army; yet when the matter came afterwards in coole blood to bee debated, first by Commissio<g ref="char:EOLhyphen"/>ners of both kingdomes, and then in open Parlia<g ref="char:EOLhyphen"/>ment here, (when all those of either House, who are now engaged at <hi>Oxford,</hi> were present in Par<g ref="char:EOLhyphen"/>liament, and gave their Votes therein) it was found, adjudged and declared by the King in Parliament, that our deare Brethren of <hi>Scotland</hi> had done no<g ref="char:EOLhyphen"/>thing, but what became loyall and obedient Sub<g ref="char:EOLhyphen"/>jects, and were thereupon by Act of Parliament publikely righted in all the Churches of this King<g ref="char:EOLhyphen"/>dome, where they had beene defamed.</p>
+            <p>Therefore however some men, hoodwinkt and blinded by the artifices of those Jesuiticall Engi<g ref="char:EOLhyphen"/>neers, who have long conspired to sacrifice our Re<g ref="char:EOLhyphen"/>ligion to the Idolatry of Rome, our Lawes, Liber<g ref="char:EOLhyphen"/>ties and persons to arbitrary slavery, and our estates to their insatiable avarice, may possibly bee deterred
+<pb n="7" facs="tcp:196579:8"/> and amused with high threats and Declarations, flying up and downe on the wings of the Royall Name and Countenance (now captivated and pro<g ref="char:EOLhyphen"/>stituted to serve all their lusts) to proclaime all Re<g ref="char:EOLhyphen"/>bells and Traytors who take this Covenant; yet let no faithfull English heart bee afraid to joyne with our Brethren of all the three Kingdomes in this solemne League, as sometimes the men of <hi>Israel</hi> (although under another King) did with the men <note place="margin">2 Chron. 30.</note> of <hi>Judah,</hi> at the invitation of <hi>Hezekiah.</hi>
+            </p>
+            <p>What though those tongues set on fire by Hell doe raile and threaten? That God who was pleased to cleare up the innocency of <hi>Mordecai</hi> and the Jewes against all the malitious aspersions of wicked <hi>Haman</hi> to his and their Soveraigne, so as all his plotting produced but this effect, that <hi>when the Kings</hi>
+               <note place="margin">E<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h. 9.</note>
+               <hi>commandement and decree drew neare to bee put in exe<g ref="char:EOLhyphen"/>cution, and the enemies of the Jewes hoped to have power over them, it was turned to the contrary, and the Jewes had rule over them that hated them, and laid hands on such as sought their hurt, so as no man could withstand them;</hi> and that same God, who but even as yesterday, vouchsafed to disperse and scatter those dark clouds &amp; fogs which overshadowed that Loy<g ref="char:EOLhyphen"/>all and Religious Kingdome of <hi>Scotland,</hi> and to make their righteousnesse to shine as cleare as the Sunne at noone day in the very eyes of their greatest enemies, will doubtlessely stand by all those who with singlenesse of heart, and a due sense of their owne sinnes, and a necessitie of reformati<g ref="char:EOLhyphen"/>on,
+<pb n="8" facs="tcp:196579:9"/> shall now enter into an everlasting Covenant with the Lord, never to bee forgotten, to put an end to all those unhappy and unnaturall breaches betweene the King and such as are faithfull in the Land; causing their <hi>righteousnesse and praise to spring forth before all the Nations,</hi> to the terror and con<g ref="char:EOLhyphen"/>fusion of those men of blood, the confederate ene<g ref="char:EOLhyphen"/>mies of God and the King, who have long com<g ref="char:EOLhyphen"/>bined, and have now raked together the dregs and scumme of many Kingdomes, to bury all the glory, honour and libertie of this Nation in the eternall grave of dishonour and destruction.</p>
+         </div>
+         <div type="order_to_print">
+            <opener>
+               <dateline>
+                  <date>Die Veneris 9. Februar. 1643.</date>
+               </dateline>
+            </opener>
+            <p>AN Exhortation touching the taking of the <hi>Solemn League and Covenant,</hi> and for satisfying of such Scruples, as may arise in the taking of it, was this day read the first and second time; And by Vote upon the Question assented unto, and Ordered to bee forthwith Printed.</p>
+            <closer>
+               <signed>H. Elsynge Cler. Parl. D. Com. A SOLEMNE</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>Printed at <hi>London</hi> for <hi>Ralph Smith,</hi> at the signe of the Bible in <hi>Cornhill,</hi> neere the <hi>Royall Exchange.</hi> 1644.</p>
+         </div>
+         <div type="covenant">
+            <pb n="9" facs="tcp:196579:9"/>
+            <head>A SOLEMN League and Covenant, FOR Reformation, and Defence of Religion, The Honour and Happinesse of the KING, And the Peace &amp; Safety of the three Kingdoms OF <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </head>
+            <p>WE Noblemen, Barons, Knights, Gentlemen, Citizens, Burgesses, Ministers of the Gospel, and Commons of all sorts in the kingdoms of <hi>England, Scotland</hi> and <hi>Ireland,</hi> by the Providence of God li<g ref="char:EOLhyphen"/>ving under one King, and being of one Reformed Religion, having before our eyes the glory of God, and the advancement of the Kingdome of our Lord and Saviour Iesus Christ, the honour and happiness of the Kings Majestie, and His Posterity, and the true publike Liberty, Safety and Peace of the Kingdoms, wherein every ones private condition is included, and
+<pb n="10" facs="tcp:196579:10"/> calling to minde the treacherous and bloody plots, Con<g ref="char:EOLhyphen"/>spiracies, Attempts, and practices of the Enemies of God, against the true religion, and professors thereof in all places, especially in these three Kingdoms ever since the reformation of religion, and how much their rage, power and presumption, are of late, and at this tune increased and exercised; whereof the deplorable estate of the Church and Kingdom of <hi>Ireland,</hi> the di<g ref="char:EOLhyphen"/>stressed estate of the Church &amp; Kingdom of <hi>England,</hi> and the dangerous estate of the Church and Kingdom of Scotland, are present and publike Testimonies; We have now at last, (after other meanes of Supplication, Remonstrance, Protestations, and Sufferings) for the preservation of our selves and our religion, from utter ruine and Destruction, according to the commendable practice of these Kingdoms in former times, and the Ex<g ref="char:EOLhyphen"/>ample of Gods people in other Nations; after mature de<g ref="char:EOLhyphen"/>liberation, resolved and determined to enter into a mu<g ref="char:EOLhyphen"/>tuall and solemne League and Covenant, wherein we all subscribe, and each one of us for himself, with our hands lifted up to the most high God, do swear:</p>
+            <p>
+               <label>I.</label> THat we shall sincerely, really and constantly, through the Grace of God, endeavour in our severall places and callings, the preservation of the Reformed Religion in the Church of <hi>Scotland,</hi> in doctrine, Worship, Disci<g ref="char:EOLhyphen"/>pline
+<pb n="11" facs="tcp:196579:10"/> and Government, against our common Enemies, the Reformation of Religion in the Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> in Doctrine, Worship, Discipline and Go<g ref="char:EOLhyphen"/>vernment, according to the Word of God, and the Exam<g ref="char:EOLhyphen"/>ple of the best Reformed Churches; And shall indeavour to bring the Churches of God in the three Kingdoms, to the neerest conjunction and Uniformity in Religion, Con<g ref="char:EOLhyphen"/>fession of Faith, Form of Church-Government, Directo<g ref="char:EOLhyphen"/>ry for Worship and Catechizing; That we and our po<g ref="char:EOLhyphen"/>sterity after us may as Brethren live in Faith and Love, and the Lord may delight to dwell in the middest of us.</p>
+            <p>
+               <label>II.</label> That we shall in like manner, without respect of per<g ref="char:EOLhyphen"/>sons, indeavour the extirpation of Popery, Prelacy, (that is, Church-Government, by Arch-Bishops, Bishops, their Chancellours and Commissaries, Deanes, Deanes and Chapters, Archdeacons, and all other Ecclesiasticall Of<g ref="char:EOLhyphen"/>ficers depending on that Hirarchy) Superstition, Heresie, Schisme, Prophanenesse, and whatsoever shall be found to be contrary to sound Doctrine, and the power of God<g ref="char:EOLhyphen"/>linesse; lest we partake in other mens sins, and thereby be in danger to receive of their plagues, and that the Lord may be one, and his Name one in the three Kingdoms.</p>
+            <p>
+               <label>III.</label> We shall with the same sincerity, reallity and constancy, in our severall Vocations, endeavour with our estates and lives, mutually to preserve the Rights and Priviledges of the Parliaments, and the Liberties of the Kingdoms, and to preserve and defend the Kings Majesties person and authority, in the preservation and defence of the true Re<g ref="char:EOLhyphen"/>ligion, and Liberties of the Kingdoms, that the world may bear witnesse with our consciences of our Loyaltie, and
+<pb n="12" facs="tcp:196579:11"/> that we have no thoughts or intentions to diminish His Majesties just power and greatnesse.</p>
+            <p>
+               <label>IIII.</label> We shall also with all faithfulnesse endeavour the dis<g ref="char:EOLhyphen"/>covery of all such as have been, or shall be Incendia<g ref="char:EOLhyphen"/>ries, Malignants, or evill Instruments, by hindering the Reformation of Religion, dividing the King from his peo<g ref="char:EOLhyphen"/>ple, or one of the Kingdoms from another, or making any Faction or parties amongst the people, contrary to this League and Covenant, that they may be brought to pub<g ref="char:EOLhyphen"/>licke triall, and receive condigne punishment, as the de<g ref="char:EOLhyphen"/>gree of their offences shall require or deserve, or the su<g ref="char:EOLhyphen"/>pream Judicatories of both Kingdoms respectively, or others having power from them for that effect, shall judge convenient.</p>
+            <p>
+               <label>V.</label> And whereas the happinesse of a blessed Peace between these Kingdoms, denyed in former times to our Progeni<g ref="char:EOLhyphen"/>tors, is by the good providence of God granted unto us, and hath been lately concluded, and setled by both Par<g ref="char:EOLhyphen"/>liaments, we shall each one of us, according to our place and interest indeavour that they may remain conjoyned in a firme Peace and Union to all Posterity; And that Iu<g ref="char:EOLhyphen"/>stice may be done upon the wilfull opposers therof, in man<g ref="char:EOLhyphen"/>ner expressed in the precedent Articles.</p>
+            <p>
+               <label>VI.</label>
+               <hi>We shall also according to our places and callings in this common cause of Religion, Liberty and Peace of the Kingdomes, assist and defend all those that enter into this League &amp; Covenant, in the maintaining &amp; pursuing there<g ref="char:EOLhyphen"/>of, and shall not suffer our selves directly or indirctly by whatsoever combination, perswasion or terrour, to be di<g ref="char:EOLhyphen"/>vided</hi>
+               <pb n="13" facs="tcp:196579:11"/>
+               <hi>&amp; withdrawn frm this blessed Union &amp; conjuction, whether to make defectiō to the contrary part, or to give our selves to a detestable indifferency or neutrality in this cause, which so much concerneth the glory of God, the good of the Kingdoms, and the honour of the King; but shall all the dayes of our lives, zealously and constantly continue therein, against all opposition, and promote the same according to our power, against all Lets and Impedi<g ref="char:EOLhyphen"/>ments whatsoever; and what we are not able our selves to suppresse or overcome, we shall reveal and make known, that it may be timely prevented or removed; All which we shall do as in the sight of God.</hi>
+            </p>
+            <p>And because these Kingdoms are guilty of many sins and provocations against God, and his Son Iesus Christ, as is too manifest by our present distresses and dangers, the fruits thereof; We professe and declare before God and the world, our unfayned desire to be humbled for our own sins, and for the sins of these Kingdoms, especially, that we have not as we ought, valued the inestimable benefit of the Gospel, that we have not laboured for the purity and power thereof, and that we have not endeavoured to receive Christ in our hearts, nor to walk worthy of him in our lives, which are the causes of other sins and Transgressions, so much abounding amongst us; And our true and unfained pur<g ref="char:EOLhyphen"/>pose, desire, and endeavour for our selves, and all others under our power and charge, both in publike and in private, in all du<g ref="char:EOLhyphen"/>ties we owe to God and man, to amend our lives, and each one to go before another in the example of a reall Reformation, that the Lord may turn away his wrath, and heavy indignation, and establish these Churches and Kingdoms in trueth and peace. And this Covenant we make in the presence of Almighty God the Searcher of all hearts, with a true intention to performe the
+<pb n="14" facs="tcp:196579:12"/> same, as we shall answer at that great day, when the secrets of all hearts shall be disclosed, Most humbly beseeching the Lord to strengthen us by his Holy Spirit for this end, and to blesse our desires and proceedings with such successe, as may be deliverance and safety to his people, and encouragement to other Christian Churches groaning under, or in danger of the yoke of Anti<g ref="char:EOLhyphen"/>christian Tyranny; to joyne in the same, or like Association and Covenant, to the glory of God, the enlargement of the King<g ref="char:EOLhyphen"/>dom of Jesus Christ, and the peace and Tranquility of Christi<g ref="char:EOLhyphen"/>an Kingdomes and Common-Wealths.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Wil: Lenthall Speaker</item>
+                     <item>Beuchamp <hi>St.</hi> Iohn</item>
+                     <item>Gilbert Gerrard</item>
+                     <item>Walter Erle</item>
+                     <item>Iames Cambell</item>
+                     <item>Tho: Cheeke</item>
+                     <item>Robert Nicholas</item>
+                     <item>Benjamin Rudyard</item>
+                     <item>Iohn Gurdon</item>
+                     <item>Robert Harley</item>
+                     <item>Francis Knollys</item>
+                     <item>Edward Master</item>
+                     <item>Iohn White</item>
+                     <item>Anthony Stapeley</item>
+                     <item>Dennis Bond</item>
+                     <item>Laurence Whitaker</item>
+                     <item>Michaell Noble</item>
+                     <item>Pere: Hoby</item>
+                     <item>Richard Barwis</item>
+                     <item>Edward Baynton</item>
+                     <item>William Cawley</item>
+                     <item>Iohn Moyle</item>
+                     <pb n="15" facs="tcp:196579:12"/>
+                     <item> Iohn Pyne</item>
+                     <item>George Searle</item>
+                     <item>Henry Vane Senior</item>
+                     <item>Nevill Poole</item>
+                     <item>Iohn Yonge</item>
+                     <item>Henry Herbert</item>
+                     <item>Thomas Sandis</item>
+                     <item>William Iesson</item>
+                     <item>Philip L: Herbert</item>
+                     <item>Thomas Barrington</item>
+                     <item>Martin Lumley</item>
+                     <item>Iohn Trevor</item>
+                     <item>Francis Godolphin</item>
+                     <item>Thomas Arundell</item>
+                     <item>Edward Stephens</item>
+                     <item>Gilbert Pykering</item>
+                     <item>Iohn Creue</item>
+                     <item>Oliver Cromwell</item>
+                     <item>Henry Vane Iunior.</item>
+                     <item>William Cage</item>
+                     <item>Richard Erisey</item>
+                     <item>Philip L: Lisle.</item>
+                     <item>William Heveningham</item>
+                     <item>Isaac Penington</item>
+                     <item>Richard Cresheld</item>
+                     <item>Thomas Pelham</item>
+                     <item>Thomas Parker</item>
+                     <item>Iohn Leigh</item>
+                     <item>Iohn Harris</item>
+                     <item>Augustine Skinner</item>
+                     <item>Iohn Venn</item>
+                     <item>William Strickland</item>
+                     <item>Iobn Franklin</item>
+                     <item>Samuel Browne</item>
+                     <pb n="16" facs="tcp:196579:13"/>
+                     <item> Robert Scawen</item>
+                     <item>Roger Hill</item>
+                     <item>Iohn Button</item>
+                     <item>Iohn Meyrick</item>
+                     <item>Ambrosse Browne</item>
+                     <item>Richard Wynn</item>
+                     <item>Edward Owner</item>
+                     <item>Charles Pym</item>
+                     <item>Charles L: Cranborne</item>
+                     <item>Ben. Weston</item>
+                     <item>Dudley North</item>
+                     <item>Iohn Nut</item>
+                     <item>Io: Corlet</item>
+                     <item>Roger Burgoyne</item>
+                     <item>Peter Temple</item>
+                     <item>Benjamin Valentyne</item>
+                     <item>Thomas Walsingham</item>
+                     <item>Oliver Luke</item>
+                     <item>William Alenson</item>
+                     <item>Humphery Salwey</item>
+                     <item>Richard More</item>
+                     <item>VVilliam Ashurst</item>
+                     <item>Thomas Moore</item>
+                     <item>Thomas Fountayne</item>
+                     <item>VVilliam Ellys</item>
+                     <item>Henry Shelley</item>
+                     <item>Richard Shuttleworth</item>
+                     <item>Henry Ludlow</item>
+                     <item>George Gallopp</item>
+                     <item>Robert Wallopp</item>
+                     <item>Arthur Hesilrige</item>
+                     <item>Oliver Saint-John</item>
+                     <item>Thomas Grantham</item>
+                     <item>Francis Barneham</item>
+                     <pb n="17" facs="tcp:196579:13"/>
+                     <item> Will: <hi>L:</hi> Fitzwilliams</item>
+                     <item>Edmund Dunch</item>
+                     <item>Henry Mildmay</item>
+                     <item>Hugh Rogers</item>
+                     <item>Thomas Hatcher</item>
+                     <item>John Wray</item>
+                     <item>Simonds D'Ewes</item>
+                     <item>Anthony Bedingfield</item>
+                     <item>John Ashe</item>
+                     <item>William <hi>L:</hi> Munson</item>
+                     <item>Martyn Lister</item>
+                     <item>Robert Goodwyn</item>
+                     <item>Edward Thomas</item>
+                     <item>Henry Lucas</item>
+                     <item>Miles Corbett</item>
+                     <item>Philip Smith</item>
+                     <item>Cornelius Holland</item>
+                     <item>William Spurstowe</item>
+                     <item>John Lowry</item>
+                     <item>Peter Wentworth</item>
+                     <item>Henry Cholmeley</item>
+                     <item>Philip Stapleton</item>
+                     <item>William Pierrepont</item>
+                     <item>Roger North</item>
+                     <item>Alexander Popham</item>
+                     <item>Thomas Hodges</item>
+                     <item>John Maynard</item>
+                     <item>Samuel Vassall</item>
+                     <item>Anthony Irby</item>
+                     <item>John Clotworthy</item>
+                     <item>John Broxolme</item>
+                     <item>Richard Jervoyse</item>
+                     <item>John Blakiston</item>
+                     <item>Walter Longe</item>
+                     <pb n="18" facs="tcp:196579:14"/>
+                     <item> John Rolle</item>
+                     <item>Robert Jennor</item>
+                     <item>John Waddon</item>
+                     <item>William Masham</item>
+                     <item>John Lisle</item>
+                     <item>Edmund Fowell</item>
+                     <item>Edward Ashe</item>
+                     <item>Thomas Pury</item>
+                     <item>Richard Whithead</item>
+                     <item>Richard Jenyns</item>
+                     <item>Humphrey Tufton</item>
+                     <item>Thomas Dacres</item>
+                     <item>Thomas Erle</item>
+                     <item>John Downes</item>
+                     <item>John Goodwyn</item>
+                     <item>Francis Drake</item>
+                     <item>William Waller</item>
+                     <item>Samuel Luke</item>
+                     <item>Francis Buller</item>
+                     <item>Richard Harman</item>
+                     <item>George Buller</item>
+                     <item>Arthur Onslowe</item>
+                     <item>Richard Wynwood</item>
+                     <item>Robert Pye</item>
+                     <item>Hen. <hi>L:</hi> Grey <hi>of</hi> Ruthin</item>
+                     <item>Richard Knightley</item>
+                     <item>John Pym</item>
+                     <item>Christopher Yelverton</item>
+                     <item>Anthony Nicoll</item>
+                     <item>Peter Wroth</item>
+                     <item>Robert Reynolds</item>
+                     <item>Nathaniel Barnardiston</item>
+                     <item>Henry Heyman</item>
+                     <item>William Purefoy</item>
+                     <pb n="19" facs="tcp:196579:14"/>
+                     <item> Valentine Walton</item>
+                     <item>Michael Oldesworth</item>
+                     <item>William Wheler</item>
+                     <item>Hall Ravenscroft</item>
+                     <item>Tho. <hi>L:</hi> Grey <hi>of</hi> Groby</item>
+                     <item>Thomas Middleton</item>
+                     <item>Edward Hungerford</item>
+                     <item>Christopher Wrey</item>
+                     <item>Richard Lee</item>
+                     <item>Herbert Morley</item>
+                     <item>Thomas Lane</item>
+                     <item>Robert Cecill</item>
+                     <item>William Bell</item>
+                     <item>Thomas Some</item>
+                     <item>Herbottle Grimstone</item>
+                     <item>Symon Snowe</item>
+                     <item>John Nash</item>
+                     <item>Herbottle Grimstone</item>
+                     <item>Ralph Asheton</item>
+                     <item>Edward Ayshcoghe</item>
+                     <item>John Wylde</item>
+                     <item>John Trenchard</item>
+                     <item>Thomas Jervoyse</item>
+                     <item>Richard Brown</item>
+                     <item>William Playters</item>
+                     <item>Nathaniel Stephens</item>
+                     <item>Richard Rose</item>
+                     <item>Francis Rous</item>
+                     <item>Gilbert Millington</item>
+                     <item>Walter Young</item>
+                     <item>John Brown</item>
+                     <item>John Hippisley</item>
+                     <item>Edward Poole</item>
+                     <item>Henry Pelham</item>
+                     <pb n="20" facs="tcp:196579:15"/>
+                     <item> William Hay</item>
+                     <item>John Driden</item>
+                     <item>Nathaniel Fyennes</item>
+                     <item>William Lewis</item>
+                     <item>Giles Grene</item>
+                     <item>William Lytton</item>
+                     <item>John Hervey</item>
+                     <item>Edward Dowce</item>
+                     <item>William Strode</item>
+                     <item>Edmond Prideaux</item>
+                     <item>Thomas Hoyle</item>
+                     <item>Edward Exton</item>
+                     <item>Francis Popham</item>
+                     <item>Zouch Tate</item>
+                     <item>John Curson</item>
+                     <item>Alexander Bence</item>
+                     <item>Squire Bence</item>
+                     <item>John Selden</item>
+                     <item>John Glynn</item>
+                     <item>Richard Onslow</item>
+                     <item>John Coke</item>
+                     <item>Thomas <hi>L:</hi> Wenman</item>
+                     <item>Bulstrode Whitelocke</item>
+                     <item>George Mountagu</item>
+                     <item>Edward Partheriche</item>
+                     <item>Henry Campion</item>
+                     <item>William Whitaker</item>
+                     <item>Denzell Holles</item>
+                     <item>Edward Wingate</item>
+                     <item>James Fenys.</item>
+                     <item>Poynings Moore</item>
+                     <item>Edward Bisse, <hi>Junior.</hi>
+                     </item>
+                     <item>William Jephson</item>
+                     <item>Edward Mountagu</item>
+                     <item>Norton Knatchboll.</item>
+                     <item>Thomas Eden</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
